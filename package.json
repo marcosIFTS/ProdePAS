@@ -1,0 +1,9 @@
+{
+  "name": "prodepas",
+  "version": "1.0.0",
+  "description": "Pagina web para mostrar resultados del prode cargados desde TXT exportados del Excel.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
